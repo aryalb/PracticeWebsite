@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Porcine Coronavirus",
     "section": "",
-    "text": "These are my research projects:"
+    "text": "There are my research projects:"
   },
   {
     "objectID": "research.html#ongoing-projects",
@@ -19,5 +19,12 @@
     "title": "Porcine Coronavirus",
     "section": "Past projects",
     "text": "Past projects\n\nSparrow coronavirus, Covid-19, Bovine coronavirus"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nCoronaviruses"
   }
 ]

@@ -2,11 +2,11 @@
 title: "Porcine Coronavirus"
 subtitle: "This page talks about the infectivity of delta corona virus"
 date: 2023-09-11
-author: "Mingde Liu"
+author: "Bikash Aryal"
 editor: visual
 ---
 
-These are my research projects:
+There are my research projects:
 
 ## Ongoing projects
 
