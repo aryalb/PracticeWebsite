@@ -1,0 +1,14 @@
+{
+  "hash": "a18aa6ecc62418e4497e6d890bf4ac21",
+  "result": {
+    "markdown": "---\ntitle: \"CodeClub\"\n---\n\n\n\n![Project_BA](ba.jpg)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n99*99\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 9801\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

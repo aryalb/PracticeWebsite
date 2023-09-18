@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "CodeClub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house
+      - about.qmd
+      - href: research.qmd
+        text: My Research Projects
+        icon: virus
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+
+
+
+

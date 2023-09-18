@@ -1,0 +1,23 @@
+---
+title: "Porcine Coronavirus"
+subtitle: "This page talks about the infectivity of delta corona virus"
+date: 2023-09-11
+author: "Mingde Liu"
+editor: visual
+---
+
+These are my research projects:
+
+## Ongoing projects
+
+### Project 1- Construction of infectious clone porcine delta coronavirus
+
+First the plasmid pUC19 + Amprocillin was transformed in to E. coli and incubated for 12 hours at 37 degree celsius.
+
+### Project 2- Electroporation in Vero cells
+
+Vero cells were then electroporated with the full length genomic DNA and N gene segment. These electroporated cells were then incubated.
+
+## Past projects
+
+1.  Sparrow coronavirus, Covid-19, Bovine coronavirus
